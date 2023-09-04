@@ -9,6 +9,12 @@ We are using a pre-trained CNN model here based on ResNet-50 to get more accurat
 The dataset used in our case can be found at:
 https://drive.google.com/file/d/1iY-WXC4w1wCIl0GYYHk2larWzGvshkdl/view?usp=drive_link
 
+Image Embeddings (.pkl) file for the dataset used in our case:
+https://drive.google.com/file/d/1eU-EFqG8arVSXr9iUMwwpwQ_BmM0KWB-/view?usp=sharing
+
+Image file embeddings (.pkl) file for the dataset used in our case:
+https://drive.google.com/file/d/14NwuwccZ0rLC-Bn4h7h90js0829jKOwz/view?usp=sharing
+
 The dataset can be downloaded and the feature_extraction.py code can be used to extract the features of the images (make sure to change the paths and folder names in the feature_extraction.py file) 
 in the form of a .pkl file.
 
