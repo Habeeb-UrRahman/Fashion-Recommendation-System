@@ -5,19 +5,25 @@ about the location of each picture in the dataset. These (.pkl) files are then u
 products from the dataset.
 
 We are using a pre-trained CNN model here based on ResNet-50 to get more accurate features from the dataset images.
+![cnn_banner](https://github.com/Habeeb-UrRahman/Fashion-Recommendation-System/assets/89064840/66afe31c-3fd6-4b79-9863-ae20bc36e680)
 
-The dataset used in our case can be found at:
+![394nf](https://github.com/Habeeb-UrRahman/Fashion-Recommendation-System/assets/89064840/0d763b17-216f-4039-97f1-a85d8a3f1621)
+
+- The dataset used in our case can be found at:
 https://drive.google.com/file/d/1iY-WXC4w1wCIl0GYYHk2larWzGvshkdl/view?usp=drive_link
 
-Image Embeddings (.pkl) file for the dataset used in our case:
+-  Image Embeddings (.pkl) file for the dataset used in our case:
 https://drive.google.com/file/d/1eU-EFqG8arVSXr9iUMwwpwQ_BmM0KWB-/view?usp=sharing
 
-Image file embeddings (.pkl) file for the dataset used in our case:
+- Image file embeddings (.pkl) file for the dataset used in our case:
 https://drive.google.com/file/d/14NwuwccZ0rLC-Bn4h7h90js0829jKOwz/view?usp=sharing
 
-The dataset can be downloaded and the feature_extraction.py code can be used to extract the features of the images (make sure to change the paths and folder names in the feature_extraction.py file) 
+- The dataset can be downloaded and the feature_extraction.py code can be used to extract the features of the images (make sure to change the paths and folder names in the feature_extraction.py file) 
 in the form of a .pkl file.
 
-These .pkl files can be used with the streamlit based app which contains the model and the recommendations system.
+- These .pkl files can be used with the streamlit based app which contains the model and the recommendations system.
 
-# Use the command 'streamlit run app.py' to run the streamlit app from the directory of the project on your local machine.
+Use the command 'streamlit run app.py' to run the streamlit app from the directory of the project on your local machine.
+
+![accur_1](https://github.com/Habeeb-UrRahman/Fashion-Recommendation-System/assets/89064840/7baf44d8-ad24-4ec5-bd0c-ebb961a3d749)
+
