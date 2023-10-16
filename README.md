@@ -25,5 +25,12 @@ in the form of a .pkl file.
 
 Use the command 'streamlit run app.py' to run the streamlit app from the directory of the project on your local machine.
 
-![accur_1](https://github.com/Habeeb-UrRahman/Fashion-Recommendation-System/assets/89064840/7baf44d8-ad24-4ec5-bd0c-ebb961a3d749)
+![Screenshot 2023-08-14 123515](https://github.com/Habeeb-UrRahman/Fashion-Recommendation-System/assets/89064840/184dd660-9668-4ff4-8f09-8f48b87b9a86)
+
+![Screenshot 2023-08-14 123255](https://github.com/Habeeb-UrRahman/Fashion-Recommendation-System/assets/89064840/ad255b7a-f6ec-451f-aba0-8c57ef076c7f)
+
+
+
+
+
 
